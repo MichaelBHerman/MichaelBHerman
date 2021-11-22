@@ -5,7 +5,7 @@
 
 ## I'm a developer, proud USAF veteran, and lover of all things tech!
 
-- 🔭 I'm a graduate of devCodeCamp's Full-Stack Developer Program
+- 🔭 I'm a graduate of devCodeCamp's FullStack Developer Program
 - 🌱 I’m currently learning Typescript
 - 👯 I’m looking to collaborate with other Developers on some amazing projects
 - 🥅 2021 Goals: 100 Days of Code and then some!
