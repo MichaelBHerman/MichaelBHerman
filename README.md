@@ -1,8 +1,5 @@
-### Hi there 👋
+### Hi, I'm Michael 👋
 
-
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on taking my developer skills to the next level.
 - 🌱 I’m currently learning Typescript
