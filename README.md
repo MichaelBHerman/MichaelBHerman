@@ -3,7 +3,7 @@
 
 ### Hi, I'm Michael 👋 
 
-## I'm a developer, proud USAF veteran, and lover of all things tech!
+## Developer, USAF Veteran, Tech-Lover
 
 - 🔭 I'm a graduate of devCodeCamp's FullStack Developer Program
 - 🌱 I’m currently learning Typescript
