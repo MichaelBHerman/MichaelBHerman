@@ -5,10 +5,10 @@
 
 ## Developer, USAF Veteran, Tech-Lover
 
-- 🔭 I'm a graduate of devCodeCamp's FullStack Developer Program
-- 🌱 I’m currently learning Typescript
-- 👯 I’m looking to collaborate with other Developers on some amazing projects
-- 🥅 2021 Goals: 100 Days of Code and then some!
+- 🔭 I'm a graduate of devCodeCamp's FullStack Software Developer Program
+- 🌱 I’m currently learning Java
+- 👯 I’m looking to collaborate with other Developers on like-minded projects
+- 🥅 2022 Goals: Move on to SDE1 @ Amazon
 - ⚡ Fun fact: I'm Thai/American 
 
 ### Connect with me:
