@@ -8,8 +8,8 @@
 - 🔭 I'm a graduate of devCodeCamp's FullStack Software Developer Program
 - 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate with other Developers on like-minded projects
-- 🥅 2022 Goals: Move on to SDE1 @ Amazon
-- ⚡ Fun fact: I'm Thai/American 
+- 🥅 2022 Goals: Make SDE1 @ Amazon 
+- ⚡ Fun fact: I'm Thai/American. I have a Yorkie named Paddington
 
 ### Connect with me:
 
