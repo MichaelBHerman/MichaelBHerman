@@ -6,9 +6,9 @@
 ## Developer, USAF Veteran, Tech-Lover
 
 - 🔭 I'm a graduate of devCodeCamp's FullStack Software Developer Program
-- 🌱 I’m currently learning Java
+- 🌱 Java is my current curriculum
 - 👯 I’m looking to collaborate with other Developers on like-minded projects
-- 🥅 2022 Goals: Make SDE1 @ Amazon 
+- 🥅 2022 Goals: Earn SDE1 @ Amazon 
 - ⚡ Fun fact: I'm Thai/American. I have a Yorkie named Paddington
 
 ### Connect with me:
