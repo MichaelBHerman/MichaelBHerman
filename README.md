@@ -6,7 +6,7 @@
 ## Developer, USAF Veteran, Tech-Lover
 
 - 🔭 I'm a graduate of devCodeCamp's FullStack Software Developer Program
-- 🌱 Java is my current curriculum
+- 🌱 Currently expanding my skills as an AWS developer
 - 👯 I’m looking to collaborate with other Developers on like-minded projects
 
 
