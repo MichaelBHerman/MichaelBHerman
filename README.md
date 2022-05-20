@@ -1,7 +1,7 @@
 
 
 
-### Hi, I'm Michael 👋 
+
 
 ## Developer, USAF Veteran, Tech-Lover
 
