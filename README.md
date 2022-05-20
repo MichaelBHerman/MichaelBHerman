@@ -43,8 +43,6 @@
 
 
 
-[website]: 
-[twitter]: 
 [youtube]: https://www.youtube.com/channel/UCXsal7pCMKpFpqq_P_NWNGQ
 [instagram]: https://www.instagram.com/mikeyh801/
 [linkedin]: https://www.linkedin.com/in/michael-herman-6b4724146/
