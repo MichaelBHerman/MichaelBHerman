@@ -5,9 +5,9 @@
 
 ## Developer, USAF Veteran, Tech-Lover
 
-- 🔭 Graduateof devCodeCamp's FullStack Software Developer Program
+- 🔭 SDE at Amazon, Seattle.
 - 🌱 Currently expanding my skills as an AWS developer
-- 👯 I’m looking to collaborate with other Developers on like-minded projects
+-
 
 
 ### Connect with me:
