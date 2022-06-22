@@ -3,10 +3,11 @@
 
 
 
-## Developer, USAF Veteran, Tech-Lover
+## Developer | USAF veteran
 
 - 🔭 SDE at Amazon, Seattle.
 - 🌱 Currently expanding my skills as an AWS developer
+- Contact: Michaelbherman@gmail.com
 
 
 ### Connect with me:
