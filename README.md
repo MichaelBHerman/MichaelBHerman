@@ -6,7 +6,7 @@
 ## Developer | USAF veteran
 
 - 🔭 SDE at Amazon, Seattle.
-- 🌱 Currently expanding my skills as an AWS developer
+- Businsess Data Technologies\Big Data
 - Contact: Michaelbherman@gmail.com
 
 
