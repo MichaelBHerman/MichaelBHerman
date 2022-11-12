@@ -3,7 +3,7 @@
 
 
 
-## Developer | USAF veteran
+## Software Engineer | USAF veteran
 
 - 🔭 SDE at Amazon, Seattle.
 - Businsess Data Technologies \ Big Data
