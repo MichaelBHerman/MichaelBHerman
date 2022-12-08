@@ -8,13 +8,6 @@
 - 🔭 SDE at Amazon, Seattle (remote)
 - Businsess Data Technologies \ Big Data
 - Contact: Michaelbherman@gmail.com
-
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.js" />][linkedin]
-
-
 <br />
 
 
