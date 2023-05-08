@@ -3,7 +3,7 @@
 
 
 
-## Software Engineer | USAF veteran
+## Software Engineer | United States Air Force veteran
 
 - 🔭 SDE at Amazon, Seattle (remote)
 - Businsess Data Technologies \ Big Data
