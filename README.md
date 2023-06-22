@@ -5,7 +5,7 @@
 
 ## Software Engineer | United States Air Force veteran
 
-- 🔭 SDE at Amazon, Seattle (remote)
+- 🔭 SDE Apprentice at Amazon, Seattle (remote)
 - Businsess Data Technologies \ Big Data
 - Contact: Michaelbherman@gmail.com
 <br />
