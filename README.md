@@ -8,6 +8,7 @@
 - 🔭 SDE Apprentice at Amazon, Seattle (remote)
 - Businsess Data Technologies \ Big Data
 - Contact: Michaelbherman@gmail.com
+- 📺YouTube: https://www.youtube.com/@mikeycodes
 <br />
 
 
